@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.guilds = exports.cooldownVoiceJoin = exports.intents = exports.internal = void 0;
 const discord_js_1 = require("discord.js");
 exports.internal = {
-    token: 'MTA2NDU5MzkxNjA4ODgxOTgxMw.GWhlKY.sa0LroSMPibcy92zL7WO1G4cQiRpzx7f-MVlb8',
-    mongoURL: 'mongodb+srv://serpentluv423:AxrqdzDftWgzxMph@cluster0.nftrems.mongodb.net/' // Ссылка на базы данных MongoDB (https://www.mongodb.com/)
+    token: '',
+    mongoURL: '' // Ссылка на базы данных MongoDB (https://www.mongodb.com/)
 };
 exports.intents = 131071; // Все интенты
 exports.cooldownVoiceJoin = 0;
