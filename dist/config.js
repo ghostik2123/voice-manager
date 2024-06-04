@@ -9,15 +9,15 @@ exports.internal = {
 exports.intents = 131071; // Все интенты
 exports.cooldownVoiceJoin = 0;
 exports.guilds = new discord_js_1.Collection()
-    .set('959711709117960193', // ID Сервера
+    .set('', // ID Сервера
 {
     defaultName: '⭐ {username}',
-    message: '1122146644402651256',
+    message: '',
     style: discord_js_1.ButtonStyle.Secondary,
     channels: {
-        text: '1122146475007299584',
-        voice: '959711709700952119',
-        category: '959711709700952117' // ID категории где будут создаваться приватные комнаты
+        text: '',
+        voice: '',
+        category: '' // ID категории где будут создаваться приватные комнаты
     },
     line: 'https://s.string.url',
     color: 0x2f3136,
